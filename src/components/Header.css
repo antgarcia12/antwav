@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #39393A;
+    width: 100%;
+}
+
+.header__title {
+    color: #ffff;
+    font-size: 105px;
+    letter-spacing: 6rem;
+}
+
+.header__logo {
+    width: 6%;
+    border-radius: 100px;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+.ant, .wav {
+    margin-left: 5rem;
+}
